@@ -12,7 +12,7 @@ class ATM{
     void showBalance(){
         cout<<"Balance: "<<balance;
     }
-};
+}; 
 
 int main(){
 
