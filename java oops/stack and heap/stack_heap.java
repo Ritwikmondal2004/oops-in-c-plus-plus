@@ -20,5 +20,6 @@ public class stack_heap {
 		
 		System.out.println(obj.num);
 		System.out.println(obj1.num);
+
     }
 }
